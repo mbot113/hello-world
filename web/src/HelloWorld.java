@@ -1,4 +1,4 @@
-public class helloWorld {
+public class HelloWorld {
 
     private int myNumber;
 
@@ -16,7 +16,7 @@ public class helloWorld {
     }
 
     public static void main(String[] args) {
-        helloWorld test = new helloWorld();
+        HelloWorld test = new HelloWorld();
         test.print();
         System.out.println("My number is " + test.getMyNumber());
         test.setMyNumber(15);
