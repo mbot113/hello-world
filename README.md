@@ -1,3 +1,2 @@
-# hello-world
-
-Hi, my name is Michail Botas and this is my first try to understand and use the GitHub.
+Let's play now! 
+I removed all the previous data and I have just added these 2 lines!
